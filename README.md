@@ -9,7 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senhortiz&hide=javascript,html)](https://github.com/Senhortiz/github-readme-stats)
 
 ##
-
-<div style ="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/hectorluizortiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  

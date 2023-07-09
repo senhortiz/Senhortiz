@@ -7,6 +7,8 @@
 ### - ASP.NET
 ### - SQL Server
 ### - Entity Framework
+### - Java
+### - NetBeans
 ![Senhortiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Senhortiz&show_icons=true&theme=radical)
 <img align="right" src="https://i.picasion.com/pic92/44d105dcc783f091b4593c1522436fc3.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 ##

@@ -1,6 +1,6 @@
 ## Olá !!! Eu sou Hector Ortiz👋
 
-### Atualmente estou cursando Analise e Desenvolvimeto de Sistemas, nas horas vagas aprimoro meu conhecimento com C#.
+### Atualmente estou cursando Analise e Desenvolvimeto de Sistemas, nas horas vagas aprimoro meu conhecimento em C#.
 ### Skills | Technologies
 ### - C#
 ### - .Net
